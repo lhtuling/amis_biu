@@ -89,7 +89,7 @@
     "js-yaml": "^4.1.0",
     "katex": "^0.16.9",
     "lerna": "^6.6.2",
-    "lint-staged": "^12.1.2",
+    "lint-staged": "^12.5.0",
     "magic-string": "^0.26.7",
     "marked": "^4.2.1",
     "monaco-editor": "0.30.1",
